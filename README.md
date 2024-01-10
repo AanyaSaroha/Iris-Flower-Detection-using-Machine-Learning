@@ -7,10 +7,15 @@ Detecting iris flowers typically refers to the task of classifying iris flowers 
 Library used are as follows-
 
 1.NumPy
+
 2.Pandas
+
 3.scikit-learn
-4.Matplotlib (optional)
+
+4.Matplotlib
+
 5.Seaborn
+
 
 Problem Statement:
 
